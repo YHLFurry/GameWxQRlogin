@@ -6,14 +6,24 @@
   ],
   "game": [
     {
-      "name": "王者荣耀",
-      "py": "wzry",
+      "name": "福羊高照",
+      "py": "fygz",
       "appId": "wx673453774ac8888e",
       "bundleId": "com.game.lamb.fygz",
       "pkg": "",
       "cls": "",
       "help": "",
       "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/fPOphFuStMxXsKUUgXVRT93PeYujG1oeRwK71o9RG91LBH4O3Iua2nmyM7HNvBKlve8wGfoXibnwceUviayC1Gb8lSiaY3MnaYibQv09Ss7Hgus/0?wx_fmt=png"
+    },
+    {
+      "name": "回村开饭店",
+      "py": "hckfd",
+      "appId": "wxe78cc40b3a2e5681",
+      "bundleId": "com.restaurant.hckfd",
+      "pkg": "",
+      "cls": "",
+      "help": "",
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/XdWJ8MxrvJQZeq1fcQLJ2QMhnawnyibeU994W3K2UxxJoudD3oBu1icZH1A7pBCrb3B93O6BfhicDG89rmia5eAf2Q/0?wx_fmt=png" alt="" class="auth_avatar"
     }
   ]
 }
