@@ -32,7 +32,7 @@ jobs:
       
       - name: Generate debug keystore
         run: |
-          keytool -genkey -v -keystore debug.keystore \
+          keytool -genkey -v -keystore app/debug.keystore \
             -keyalg RSA -keysize 2048 -validity 10000 \
             -alias androiddebugkey -keypass android \
             -storepass android \
