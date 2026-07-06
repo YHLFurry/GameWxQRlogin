@@ -16,14 +16,14 @@
       "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/fPOphFuStMxXsKUUgXVRT93PeYujG1oeRwK71o9RG91LBH4O3Iua2nmyM7HNvBKlve8wGfoXibnwceUviayC1Gb8lSiaY3MnaYibQv09Ss7Hgus/0?wx_fmt=png"
     },
     {
-      "name": "一路顺风",
-      "py": "ylsf",
-      "appId": "wx256dd8d8525be286",
-      "bundleId": "com.fyhk.ylsf",
+      "name": "锦绣鸿福",
+      "py": "jxhf",
+      "appId": "wxa0227f5c9bd936f8",
+      "bundleId": "com.prosperity.embroidered.jxhf",
       "pkg": "",
       "cls": "",
       "help": "",
-      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/kAmlkfkFjepVCTk5LIPYuMibnS5xlPdhkW1EApibpQAYiaKOjZBoXUaIGG2cPTqrnOx9ZhwvhJtgoFBGOicmribh3YA/0?wx_fmt=png"
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/Ok2E6oQHUIGs87JpsS2JUUtPhnWnVOxpicJJHJy7m8wDp2uAYjXbTwoPVKRpCJrR2iaicvuIPgcMgfZtaKV09qicuw/0?wx_fmt=png"
     }
   ]
 }
